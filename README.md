@@ -1,5 +1,3 @@
-# HackerRank-Python
-
 ![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-Python-Challenges-Solutions?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-Python-Challenges-Solutions?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-Python-Challenges-Solutions?style=flat)
@@ -15,4 +13,12 @@
 </p>
 
 ## Description
-The solutions of all my SQL HackerRank Python challenges
+The solutions of all my SQL HackerRank Python challenges for all the subdomains
+
+## Subdomains
+
+### Introduction
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [.py]()
