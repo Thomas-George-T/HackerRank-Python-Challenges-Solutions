@@ -21,4 +21,4 @@ The solutions of all my SQL HackerRank Python challenges for all the subdomains
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [.py]()
+| 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [.py](https://github.com/Thomas-George-T/HackerRank-Python-Challenges-Solutions/blob/main/Introduction/Say%20'Hello,%20World!'%20With%20Python.py)
