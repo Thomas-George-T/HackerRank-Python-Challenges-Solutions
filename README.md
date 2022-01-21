@@ -13,7 +13,7 @@
 </p>
 
 ## Description
-The solutions of all my SQL HackerRank Python challenges for all the subdomains
+The solutions of all my HackerRank Python challenges for all the subdomains in python3
 
 ## Subdomains
 
@@ -21,4 +21,10 @@ The solutions of all my SQL HackerRank Python challenges for all the subdomains
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [.py](https://github.com/Thomas-George-T/HackerRank-Python-Challenges-Solutions/blob/main/Introduction/Say%20'Hello,%20World!'%20With%20Python.py)
+| 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [.py](https://github.com/Thomas-George-T/HackerRank-Python-Challenges-Solutions/blob/main/Introduction/Say%20'Hello,%20World!'%20With%20Python.py) |
+| 2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [.py]() |
+| 3 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [.py]() |
+| 4 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [.py]() |
+| 5 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [.py]() |
+| 6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [.py]() |
+| 7 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [.py]() |
